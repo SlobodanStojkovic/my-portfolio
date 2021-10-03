@@ -26,7 +26,7 @@ export const Header = () => {
                             <li><a href="#about">About</a></li>
                             <li><a href="#skills">My skills</a></li>
                             <li><a href="#projects">My projects</a></li>
-                            <li><a href="#footer">Contact</a></li>
+                            <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
                     <span className="navTrigger" onClick={showMenuOnClick}>
@@ -41,7 +41,7 @@ export const Header = () => {
 
                 <div className="divHeader">
                     <section className="sec-header">
-                        <h1>Hi, I am Slobodan Stojkovic</h1>
+                        <h1>Hi, I am Slobodan Stojkovic.</h1>
                         <hr className="col-xs-12 d-none d-sm-block hrHeader" />
                         <div className="presentationHeader">
                             <section className="half-header-r d-none d-sm-none d-md-block">

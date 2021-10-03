@@ -2,7 +2,7 @@ import "./AboutMe.scss";
 
 export const AboutMe = () => {
     return (
-        <div id="about" className="container my-5 text-center">
+        <div id="about" className="container my-5 text-center anchor">
             <h1 className="text-center mb-5 fw-bold"> ABOUT ME</h1>
 
             <div className="d-flex flex-wrap flex-lg-nowrap justify-content-center">
