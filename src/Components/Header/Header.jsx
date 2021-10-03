@@ -14,7 +14,8 @@ export const Header = () => {
 
 
     return (
-        <>
+
+        <header>
             <nav className="nav">
                 <div className="container">
                     <div className="logoName">
@@ -22,9 +23,9 @@ export const Header = () => {
                     </div>
                     <div id="mainListDiv" className="main_list">
                         <ul className="navlinks">
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">My projects</a></li>
+                            <li><a href="#about">About</a></li>
                             <li><a href="#">My skills</a></li>
+                            <li><a href="#">My projects</a></li>
                             <li><a href="#">Contact</a></li>
                         </ul>
                     </div>
@@ -53,7 +54,7 @@ export const Header = () => {
                     </section>
                 </div>
             </section>
-        </>
+        </header>
     )
 }
 
