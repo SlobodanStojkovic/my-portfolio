@@ -4,7 +4,7 @@ import "./MySkills.scss";
 export const MySkills = () => {
     return (
         <div id="skills" className=" pb-5">
-            <h1 className="text-center pt-4 mb-5 text-dark fw-bold">MY SKILLS <i className="fas fa-user-secret text-center"></i></h1>
+            <h1 className="text-center pt-4 mb-5 text-info fw-bold">MY SKILLS <i className="fas fa-user-secret text-center"></i></h1>
 
             <div className="container skill-section py-5 mb-5 row">
 
