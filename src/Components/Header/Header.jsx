@@ -24,9 +24,9 @@ export const Header = () => {
                     <div id="mainListDiv" className="main_list">
                         <ul className="navlinks">
                             <li><a href="#about">About</a></li>
-                            <li><a href="#">My skills</a></li>
-                            <li><a href="#">My projects</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#skills">My skills</a></li>
+                            <li><a href="#projects">My projects</a></li>
+                            <li><a href="#footer">Contact</a></li>
                         </ul>
                     </div>
                     <span className="navTrigger" onClick={showMenuOnClick}>
