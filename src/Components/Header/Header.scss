@@ -24,7 +24,7 @@ header {
     z-index: 2;
 }
 
-.nav div.logoName {
+.nav div .logoName {
     float: left;
     width: auto;
     height: auto;
@@ -33,7 +33,7 @@ header {
 
 .nav div.logoName a {
     text-decoration: none;
-    color: #fff;
+    color: skyblue;
     font-size: 2.5rem;
 }
 
@@ -64,7 +64,7 @@ header {
 
 .nav div.main_list ul li a {
     text-decoration: none;
-    color: #fff;
+    color: skyblue;
     line-height: 65px;
     font-size: 2.4rem;
 }
@@ -453,6 +453,11 @@ header {
     header .container {
         margin: 0;
     }
+}
+@media screen and (min-width: 1400px) {
+.container {
+    width: 100%;
+}
 }
 
 @media screen and (max-width:768px) {
