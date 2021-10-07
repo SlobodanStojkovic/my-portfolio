@@ -1,11 +1,11 @@
-import bitPeople from "./assets/bit-people.png";
-import hackerNews from "./assets/hackerNews.png";
-import bitShow from "./assets/bitShow.png";
-import gitHubSearcher from "./assets/gitHubSearcher.png";
-import rickAndMorty from "./assets/rickAndMorty.png";
-import buildEstate from "./assets/buildEstate.png";
-import movieFestival from "./assets/movieFestival.png";
-import examStatistics from "./assets/examStatistics.png";
+import bitPeople from "./assets/bit-people.jpg";
+import hackerNews from "./assets/hackerNews.jpg";
+import bitShow from "./assets/bitShow.jpg";
+import gitHubSearcher from "./assets/gitHubSearcher.jpg";
+import rickAndMorty from "./assets/rickAndMorty.jpg";
+import buildEstate from "./assets/buildEstate.jpg";
+import movieFestival from "./assets/movieFestival.jpg";
+import examStatistics from "./assets/examStatistics.jpg";
 import "./MyProjects.scss";
 
 export const MyProjects = () => {
