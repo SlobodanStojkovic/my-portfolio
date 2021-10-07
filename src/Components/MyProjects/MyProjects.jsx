@@ -4,6 +4,8 @@ import bitShow from "./assets/bitShow.png";
 import gitHubSearcher from "./assets/gitHubSearcher.png";
 import rickAndMorty from "./assets/rickAndMorty.png";
 import buildEstate from "./assets/buildEstate.png";
+import movieFestival from "./assets/movieFestival.png";
+import examStatistics from "./assets/examStatistics.png";
 import "./MyProjects.scss";
 
 export const MyProjects = () => {
@@ -42,8 +44,20 @@ export const MyProjects = () => {
                 </article>
                 <article className="project-article mb-5 col-lg-5 fs-5 text-center">
                     <h3>Hacker News</h3>
-                    <a href="https://slobodanstojkovic.github.io/hacker-news/" target="_blank" rel="noopener noreferrer"><img className="projectImg" src={hackerNews} alt="" /></a>
+                    <a href="https://slobodanstojkovic.github.io/hacker-news/" target="_blank" rel="noopener noreferrer"><img className="projectImg" src={hackerNews} alt="Hacker News" /></a>
                     <p>Hacker News is a project that makes example of a single page blog that collects latest news fetched from API, gives out basic data about that news and provides link to original news location.
+                    </p>
+                </article>
+                <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+                    <h3>MVC-MovieFestival</h3>
+                    <a href="https://slobodanstojkovic.github.io/MVC-MovieFestival/" target="_blank" rel="noopener noreferrer"><img className="projectImg" src={movieFestival} alt="Movie Festival" /></a>
+                    <p>MVC-MovieFestival is a Single Page Application whose main purpose is to create Movie Festival Program. Program is created on certain date in future and movies with their details can be added to program. You can create multiple Movie Festival Programs.
+                    </p>
+                </article>
+                <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+                    <h3>MVC-ExamStatistics</h3>
+                    <a href="https://slobodanstojkovic.github.io/MVC-ExamStatistics/" target="_blank" rel="noopener noreferrer"><img className="projectImg" src={examStatistics} alt="Exam Statistics" /></a>
+                    <p>Single Page Application designed to calculate Exam Statistics. It shows percentage of students that have passed and failed exams. Its created using JavaScript and Model View Control Pattern.
                     </p>
                 </article>
 
