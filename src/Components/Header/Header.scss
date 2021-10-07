@@ -22,6 +22,8 @@ header {
     line-height: 65px;
     text-align: center;
     z-index: 2;
+    background-color: black;
+    min-height: 100px;
 }
 
 .nav div .logoName {
@@ -456,26 +458,31 @@ header {
 }
 @media screen and (min-width: 1400px) {
 .container {
+    max-width: 4400px;
     width: 100%;
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 1400px) {
     header .navTrigger {
         display: block;
     }
+
     header .nav div.logoName {
         margin-left: 15px;
     }
+
     header .nav div.main_list {
         width: 100%;
         height: 0;
         overflow: hidden;
     }
+
     header .nav div.show_list {
         height: auto;
         display: none;
     }
+
     header .nav div.main_list ul {
         flex-direction: column;
         width: 100%;
@@ -488,16 +495,19 @@ header {
         /*same background color of navbar*/
         background-position: center top;
     }
+
     header .nav div.main_list ul li {
         width: 100%;
         text-align: right;
     }
+
     header .nav div.main_list ul li a {
         text-align: center;
         width: 100%;
         font-size: 3rem;
         padding: 20px;
     }
+
     .nav div.media_button {
         display: block;
     }
