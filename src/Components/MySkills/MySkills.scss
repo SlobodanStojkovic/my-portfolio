@@ -1,87 +1,86 @@
 #skills {
-    background-image: url("./assets/laptopTable.png");
-    background-size: cover;
-    padding-top: 4%;
+  background-image: url("./assets/laptopTable.png");
+  background-size: cover;
+  padding-top: 4%;
 }
 
 #skills article {
-    background-color: white;
-    margin: 10px;
-    padding: 15px;
+  background-color: white;
+  margin: 10px;
+  padding: 15px;
 }
 
 .skill {
-    width: 140px;
-    height: 120px;
+  width: 140px;
+  height: 120px;
 }
 
 .skill {
-    width: 140px;
-    height: 120px;
+  width: 140px;
+  height: 120px;
 }
 
 .rowOneSkills article i {
-    width: 140px;
-    height: 120px;
+  width: 140px;
+  height: 120px;
 }
 
 .rowTwoSkills article i {
-    width: 140px;
-    height: 120px;
+  width: 140px;
+  height: 120px;
 }
 
 .skill-section {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .skill-section article {
-    box-shadow: rgba(190, 190, 190, 0.5) 1.95px 1.95px 2.6px;
-    padding: 35px 15px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-    border: 1px solid rgb(97,217,251);
+  box-shadow: rgba(190, 190, 190, 0.5) 1.95px 1.95px 2.6px;
+  padding: 35px 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(97, 217, 251);
 }
 
 .fa-react {
-    font-size: 6em;
-    text-align: center;
-    margin-top: 25px;
-    color: rgb(97,217,251);
+  font-size: 6em;
+  text-align: center;
+  margin-top: 25px;
+  color: rgb(97, 217, 251);
 }
 
-
 .fa-bootstrap {
-    font-size: 6em;
-    text-align: center;
-    margin-top: 25px;
-    color: rgb(97,217,251);
+  font-size: 6em;
+  text-align: center;
+  margin-top: 25px;
+  color: rgb(97, 217, 251);
 }
 
 .fa-sass {
-    font-size: 6em;
-    text-align: center;
-    margin-top: 25px;
-    color: rgb(97,217,251);
+  font-size: 6em;
+  text-align: center;
+  margin-top: 25px;
+  color: rgb(97, 217, 251);
 }
 
 #skills p {
-    color: rgb(97,217,251);
+  color: rgb(97, 217, 251);
 }
 
 .rowOneSkills {
-    width: 60%;
-    margin: 0 auto;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .rowTwoSkills {
-    width: 60%;
-    margin: 0 auto;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .rowOneSkills article img {
-    margin-top: 25px;
+  margin-top: 25px;
 }
 
 .rowTwoSkills article img {
-    margin-top: 25px;
+  margin-top: 25px;
 }
