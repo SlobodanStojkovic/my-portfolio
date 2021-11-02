@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.9cb9b24c.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.69165f69.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.69165f69.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.0ce743da.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.e6316cfc.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.e6316cfc.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js.map",
     "static/js/2.e162691a.chunk.js": "/my-portfolio/static/js/2.e162691a.chunk.js",
     "static/js/2.e162691a.chunk.js.map": "/my-portfolio/static/js/2.e162691a.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.9cb9b24c.chunk.css.map": "/my-portfolio/static/css/main.9cb9b24c.chunk.css.map",
+    "static/css/main.0ce743da.chunk.css.map": "/my-portfolio/static/css/main.0ce743da.chunk.css.map",
     "static/js/2.e162691a.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e162691a.chunk.js.LICENSE.txt",
-    "static/media/bit-people.a5cd5029.png": "/my-portfolio/static/media/bit-people.a5cd5029.png",
-    "static/media/bitShow.18a10b3f.png": "/my-portfolio/static/media/bitShow.18a10b3f.png",
-    "static/media/buildEstate.161a10b3.png": "/my-portfolio/static/media/buildEstate.161a10b3.png",
-    "static/media/examStatistics.466f9d58.png": "/my-portfolio/static/media/examStatistics.466f9d58.png",
-    "static/media/gitHubSearcher.02403333.png": "/my-portfolio/static/media/gitHubSearcher.02403333.png",
-    "static/media/hackerNews.98b49d71.png": "/my-portfolio/static/media/hackerNews.98b49d71.png",
+    "static/media/bitBlog.d7ce472f.png": "/my-portfolio/static/media/bitBlog.d7ce472f.png",
+    "static/media/bitPeople.a18f3478.jpg": "/my-portfolio/static/media/bitPeople.a18f3478.jpg",
+    "static/media/bitShow.e249ff29.jpg": "/my-portfolio/static/media/bitShow.e249ff29.jpg",
+    "static/media/buildEstate.3d40192a.jpg": "/my-portfolio/static/media/buildEstate.3d40192a.jpg",
+    "static/media/examStatistics.26ff9538.jpg": "/my-portfolio/static/media/examStatistics.26ff9538.jpg",
+    "static/media/gitHubSearcher.d37abf6e.jpg": "/my-portfolio/static/media/gitHubSearcher.d37abf6e.jpg",
+    "static/media/hackerNews.d58be410.jpg": "/my-portfolio/static/media/hackerNews.d58be410.jpg",
     "static/media/MySkills.scss": "/my-portfolio/static/media/laptopTable.694e8d56.png",
-    "static/media/movieFestival.7691d7d0.png": "/my-portfolio/static/media/movieFestival.7691d7d0.png",
-    "static/media/rickAndMorty.ff21e64e.png": "/my-portfolio/static/media/rickAndMorty.ff21e64e.png",
+    "static/media/movieFestival.623b1a28.jpg": "/my-portfolio/static/media/movieFestival.623b1a28.jpg",
+    "static/media/rickAndMorty.59b5e013.jpg": "/my-portfolio/static/media/rickAndMorty.59b5e013.jpg",
+    "static/media/studentProfiles.50ec7621.png": "/my-portfolio/static/media/studentProfiles.50ec7621.png",
     "static/media/Footer.scss": "/my-portfolio/static/media/world.4045cfb0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9bc2dc3f.js",
     "static/js/2.e162691a.chunk.js",
-    "static/css/main.9cb9b24c.chunk.css",
-    "static/js/main.69165f69.chunk.js"
+    "static/css/main.0ce743da.chunk.css",
+    "static/js/main.e6316cfc.chunk.js"
   ]
 }
