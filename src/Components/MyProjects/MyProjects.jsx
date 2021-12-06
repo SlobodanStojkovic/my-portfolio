@@ -7,6 +7,7 @@ import buildEstate from "./assets/buildEstate.jpg";
 import movieFestival from "./assets/movieFestival.jpg";
 import examStatistics from "./assets/examStatistics.jpg";
 import studentProfiles from "./assets/studentProfiles.png";
+import sweetPleasures from "./assets/sweetPleasures.png";
 import bitBlog from "./assets/bitBlog.png";
 import "./MyProjects.scss";
 
@@ -16,6 +17,95 @@ export const MyProjects = () => {
       <h1 className="text-center pt-4 mb-5"> PROJECTS</h1>
 
       <section className="container d-flex flex-wrap justify-content-center project-container">
+      <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Order Sweets App</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/order-sweets-app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="projectImg"
+              src={sweetPleasures}
+              alt="Sweet Pleasures"
+            />
+          </a>
+          <p>
+          React application for ordering sweets with implemented frontend functionalities. In this SPA you can add items to cart, increase their number or delete them from cart.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Search TV Shows</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/Search-TV-Shows/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img className="projectImg" src={bitShow} alt="Search TV Shows" />
+          </a>
+          <p>
+            Website whose main purpose is to provide information to the users
+            about TV shows. It has a search function for specific TV show, or if
+            you type few characters and press enter it will display matching TV
+            Shows. You can also view cast, number of episodes and AKAs.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Build Estate</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/BuildEstate/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img className="projectImg" src={buildEstate} alt="Build Estate" />
+          </a>
+          <p>
+            BuildEstate is the responsive website example. It changes depending
+            if its being viewed on mobile devices, tablets or laptops and
+            desktop computers.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>GitHub Searcher</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/GitHub-Searcher/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="projectImg"
+              src={gitHubSearcher}
+              alt="GitHub Searcher"
+            />
+          </a>
+          <p>
+            Single page application that enables you to search for GitHub
+            profiles and see their list of repositories.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Rick and Morty Characters</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/Rick-and-Morty-Characters/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="projectImg"
+              src={rickAndMorty}
+              alt="Rick And Morty"
+            />
+          </a>
+          <p>
+            Web application for browsing Rick & Morty characters. Application
+            pulls data from API.
+          </p>
+        </article>
+
         <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>Student Profiles</h3>
           <a
@@ -69,73 +159,7 @@ export const MyProjects = () => {
             as a grid.
           </p>
         </article>
-        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
-          <h3>Search TV Shows</h3>
-          <a
-            href="https://slobodanstojkovic.github.io/Search-TV-Shows/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="projectImg" src={bitShow} alt="Search TV Shows" />
-          </a>
-          <p>
-            Website whose main purpose is to provide information to the users
-            about TV shows. It has a search function for specific TV show, or if
-            you type few characters and press enter it will display matching TV
-            Shows. You can also view cast, number of episodes and AKAs.
-          </p>
-        </article>
-        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
-          <h3>GitHub Searcher</h3>
-          <a
-            href="https://slobodanstojkovic.github.io/GitHub-Searcher/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              className="projectImg"
-              src={gitHubSearcher}
-              alt="GitHub Searcher"
-            />
-          </a>
-          <p>
-            Single page application that enables you to search for GitHub
-            profiles and see their list of repositories.
-          </p>
-        </article>
-        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
-          <h3>Rick and Morty Characters</h3>
-          <a
-            href="https://slobodanstojkovic.github.io/Rick-and-Morty-Characters/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              className="projectImg"
-              src={rickAndMorty}
-              alt="Rick And Morty"
-            />
-          </a>
-          <p>
-            Web application for browsing Rick & Morty characters. Application
-            pulls data from API.
-          </p>
-        </article>
-        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
-          <h3>Build Estate</h3>
-          <a
-            href="https://slobodanstojkovic.github.io/BuildEstate/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img className="projectImg" src={buildEstate} alt="Build Estate" />
-          </a>
-          <p>
-            BuildEstate is the responsive website example. It changes depending
-            if its being viewed on mobile devices, tablets or laptops and
-            desktop computers.
-          </p>
-        </article>
+        
         <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>Hacker News</h3>
           <a
@@ -151,6 +175,7 @@ export const MyProjects = () => {
             about that news and provides link to original news location.
           </p>
         </article>
+
         <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>MVC-MovieFestival</h3>
           <a
@@ -171,6 +196,7 @@ export const MyProjects = () => {
             can create multiple Movie Festival Programs.
           </p>
         </article>
+
         <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>MVC-ExamStatistics</h3>
           <a
