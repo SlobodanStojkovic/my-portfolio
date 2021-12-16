@@ -17,7 +17,7 @@ export const MyProjects = () => {
       <h1 className="text-center pt-4 mb-5"> PROJECTS</h1>
 
       <section className="container d-flex flex-wrap justify-content-center project-container">
-      <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>Order Sweets App</h3>
           <a
             href="https://slobodanstojkovic.github.io/order-sweets-app/"
@@ -31,7 +31,13 @@ export const MyProjects = () => {
             />
           </a>
           <p>
-          React application for ordering sweets with implemented frontend functionalities. In this SPA you can add items to cart, increase their number or delete them from cart.
+            This app is designed to allow its users to order their favorite
+            sweets directly from a seller. It uses API that fetches data from
+            sellers backend and allows users to add products with desired amount
+            to the cart, and after clicking the ORDER button it will then lead
+            customer to insert the information where should sweets of his choice
+            be delivered. After submitting the required data the seller receives
+            information about customers order. 
           </p>
         </article>
 
@@ -159,7 +165,7 @@ export const MyProjects = () => {
             as a grid.
           </p>
         </article>
-        
+
         <article className="project-article mb-5 col-lg-5 fs-5 text-center">
           <h3>Hacker News</h3>
           <a
