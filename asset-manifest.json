@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0ce743da.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.7f27bdf9.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.7f27bdf9.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.619b3bbe.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.9f5819d6.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.9f5819d6.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js.map",
     "static/js/2.e162691a.chunk.js": "/my-portfolio/static/js/2.e162691a.chunk.js",
     "static/js/2.e162691a.chunk.js.map": "/my-portfolio/static/js/2.e162691a.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.0ce743da.chunk.css.map": "/my-portfolio/static/css/main.0ce743da.chunk.css.map",
+    "static/css/main.619b3bbe.chunk.css.map": "/my-portfolio/static/css/main.619b3bbe.chunk.css.map",
     "static/js/2.e162691a.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e162691a.chunk.js.LICENSE.txt",
     "static/media/bitBlog.d7ce472f.png": "/my-portfolio/static/media/bitBlog.d7ce472f.png",
     "static/media/bitPeople.a18f3478.jpg": "/my-portfolio/static/media/bitPeople.a18f3478.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.9bc2dc3f.js",
     "static/js/2.e162691a.chunk.js",
-    "static/css/main.0ce743da.chunk.css",
-    "static/js/main.7f27bdf9.chunk.js"
+    "static/css/main.619b3bbe.chunk.css",
+    "static/js/main.9f5819d6.chunk.js"
   ]
 }
