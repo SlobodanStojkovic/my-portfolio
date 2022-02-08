@@ -104,7 +104,7 @@ header {
   margin: auto;
   position: absolute;
   right: 30px;
-  top: 0;
+  top: 15px;
   bottom: 0;
 }
 
@@ -309,7 +309,7 @@ header {
   }
 }
 
-@media all and (max-width: 436px) {
+@media all and (max-width: 457px) {
   .nav {
     height: 170px;
   }
@@ -466,6 +466,10 @@ header {
 
   header .nav div.logoName {
     margin-left: 15px;
+    padding-left: 3rem;
+    text-align: start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 85%;
   }
 
   header .nav div.main_list {
