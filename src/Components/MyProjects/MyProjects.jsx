@@ -8,6 +8,7 @@ import movieFestival from "./assets/movieFestival.jpg";
 import examStatistics from "./assets/examStatistics.jpg";
 import studentProfiles from "./assets/studentProfiles.png";
 import sweetPleasures from "./assets/sweetPleasures.png";
+import landingPageLoopStudios from "./assets/landingPageLoopStudios.png";
 import bitBlog from "./assets/bitBlog.png";
 import "./MyProjects.scss";
 
@@ -37,7 +38,28 @@ export const MyProjects = () => {
             to the cart, and after clicking the ORDER button it will then lead
             customer to insert the information where should sweets of his choice
             be delivered. After submitting the required data the seller receives
-            information about customers order. 
+            information about customers order.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Landing page Loop Studios</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/landing-page-loop-studios/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="projectImg"
+              src={landingPageLoopStudios}
+              alt="Landing page Loop Studios"
+            />
+          </a>
+          <p>
+            This project is made using Figma design to create landing page for
+            Loop Studios. I represents a landing page for Loop Studios. Landing
+            page is completely responsive. Its styles are written in SASS and it
+            uses gulp to minify the production code and transpile sass to css.
           </p>
         </article>
 
