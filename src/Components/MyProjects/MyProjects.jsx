@@ -9,6 +9,7 @@ import examStatistics from "./assets/examStatistics.jpg";
 import studentProfiles from "./assets/studentProfiles.png";
 import sweetPleasures from "./assets/sweetPleasures.png";
 import landingPageLoopStudios from "./assets/landingPageLoopStudios.png";
+import landingPageSunnyside from "./assets/landingPageSunnyside.png";
 import bitBlog from "./assets/bitBlog.png";
 import "./MyProjects.scss";
 
@@ -57,9 +58,30 @@ export const MyProjects = () => {
           </a>
           <p>
             This project is made using Figma design to create landing page for
-            Loop Studios. I represents a landing page for Loop Studios. Landing
+            Loop Studios. It represents a landing page for Loop Studios. Landing
             page is completely responsive. Its styles are written in SASS and it
             uses gulp to minify the production code and transpile sass to css.
+          </p>
+        </article>
+
+        <article className="project-article mb-5 col-lg-5 fs-5 text-center">
+          <h3>Landing page Sunnyside</h3>
+          <a
+            href="https://slobodanstojkovic.github.io/landing-page-sunnyside/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              className="projectImg"
+              src={landingPageSunnyside}
+              alt="Landing page Sunnyside"
+            />
+          </a>
+          <p>
+            This project is made using Figma design to create landing page for
+            Sunnyside. It represents a landing page for Sunnyside. Landing page
+            is completely responsive. Its styles are written in SASS and it uses
+            gulp to minify the production code and transpile sass to css.
           </p>
         </article>
 

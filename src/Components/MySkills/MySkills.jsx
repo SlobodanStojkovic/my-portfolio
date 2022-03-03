@@ -22,6 +22,20 @@ export const MySkills = () => {
             <p className="text-center fw-bold fs-3">Javascript</p>
           </article>
           <article className="col text-center">
+            <i className="fab fa-sass"></i>
+            <p className="text-center fw-bold fs-3">SASS</p>
+          </article>
+          <article className="col text-center">
+            <img
+              src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"
+              className="skill"
+              alt="jQuery"
+            />
+            <p className="text-center fw-bold fs-3">jQuery</p>
+          </article>
+        </div>
+        <div className="rowTwoSkills row">
+          <article className="col text-center">
             <img
               src="https://icons.iconarchive.com/icons/graphics-vibe/developer/128/html-icon.png"
               className="skill"
@@ -37,16 +51,7 @@ export const MySkills = () => {
             />
             <p className="text-center fw-bold fs-3">CSS3</p>
           </article>
-        </div>
-        <div className="rowTwoSkills row">
-          <article className="col text-center">
-            <img
-              src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"
-              className="skill"
-              alt="jQuery"
-            />
-            <p className="text-center fw-bold fs-3">jQuery</p>
-          </article>
+
           <article className="col text-center">
             <img
               src="https://icons.iconarchive.com/icons/graphics-vibe/developer/128/ajax-icon.png"
@@ -59,10 +64,6 @@ export const MySkills = () => {
           <article className="col text-center">
             <i className="fab fa-bootstrap"></i>
             <p className="text-center fw-bold fs-3">Bootstrap 5</p>
-          </article>
-          <article className="col text-center">
-            <i className="fab fa-sass"></i>
-            <p className="text-center fw-bold fs-3">SASS</p>
           </article>
         </div>
       </div>
