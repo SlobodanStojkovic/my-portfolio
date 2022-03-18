@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.44b4bcf8.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.9f5819d6.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.9f5819d6.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.943b1074.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.37a74ff7.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.37a74ff7.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js.map",
     "static/js/2.e162691a.chunk.js": "/my-portfolio/static/js/2.e162691a.chunk.js",
     "static/js/2.e162691a.chunk.js.map": "/my-portfolio/static/js/2.e162691a.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.44b4bcf8.chunk.css.map": "/my-portfolio/static/css/main.44b4bcf8.chunk.css.map",
+    "static/css/main.943b1074.chunk.css.map": "/my-portfolio/static/css/main.943b1074.chunk.css.map",
     "static/js/2.e162691a.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e162691a.chunk.js.LICENSE.txt",
-    "static/media/bitBlog.d7ce472f.png": "/my-portfolio/static/media/bitBlog.d7ce472f.png",
-    "static/media/bitPeople.a18f3478.jpg": "/my-portfolio/static/media/bitPeople.a18f3478.jpg",
-    "static/media/bitShow.e249ff29.jpg": "/my-portfolio/static/media/bitShow.e249ff29.jpg",
-    "static/media/buildEstate.3d40192a.jpg": "/my-portfolio/static/media/buildEstate.3d40192a.jpg",
-    "static/media/examStatistics.26ff9538.jpg": "/my-portfolio/static/media/examStatistics.26ff9538.jpg",
-    "static/media/gitHubSearcher.d37abf6e.jpg": "/my-portfolio/static/media/gitHubSearcher.d37abf6e.jpg",
-    "static/media/hackerNews.d58be410.jpg": "/my-portfolio/static/media/hackerNews.d58be410.jpg",
+    "static/media/bitBlog.ea9368e2.webp": "/my-portfolio/static/media/bitBlog.ea9368e2.webp",
+    "static/media/bitPeople.5a5b42e3.webp": "/my-portfolio/static/media/bitPeople.5a5b42e3.webp",
+    "static/media/bitShow.8521a5be.webp": "/my-portfolio/static/media/bitShow.8521a5be.webp",
+    "static/media/buildEstate.2230ef25.webp": "/my-portfolio/static/media/buildEstate.2230ef25.webp",
+    "static/media/examStatistics.9206861d.webp": "/my-portfolio/static/media/examStatistics.9206861d.webp",
+    "static/media/Footer.scss": "/my-portfolio/static/media/footer-world.3d287efa.webp",
+    "static/media/gitHubSearcher.f2b19e95.webp": "/my-portfolio/static/media/gitHubSearcher.f2b19e95.webp",
+    "static/media/hackerNews.0481d278.webp": "/my-portfolio/static/media/hackerNews.0481d278.webp",
+    "static/media/landingPageLoopStudios.426af553.webp": "/my-portfolio/static/media/landingPageLoopStudios.426af553.webp",
+    "static/media/landingPageSunnyside.4719c030.webp": "/my-portfolio/static/media/landingPageSunnyside.4719c030.webp",
     "static/media/MySkills.scss": "/my-portfolio/static/media/laptopTable.694e8d56.png",
-    "static/media/movieFestival.623b1a28.jpg": "/my-portfolio/static/media/movieFestival.623b1a28.jpg",
-    "static/media/rickAndMorty.59b5e013.jpg": "/my-portfolio/static/media/rickAndMorty.59b5e013.jpg",
-    "static/media/studentProfiles.50ec7621.png": "/my-portfolio/static/media/studentProfiles.50ec7621.png",
-    "static/media/sweetPleasures.2e93d3ff.png": "/my-portfolio/static/media/sweetPleasures.2e93d3ff.png",
-    "static/media/Footer.scss": "/my-portfolio/static/media/world.4045cfb0.png"
+    "static/media/movieFestival.bb633679.webp": "/my-portfolio/static/media/movieFestival.bb633679.webp",
+    "static/media/rickAndMorty.78d64c08.webp": "/my-portfolio/static/media/rickAndMorty.78d64c08.webp",
+    "static/media/studentProfiles.d558d8b5.webp": "/my-portfolio/static/media/studentProfiles.d558d8b5.webp",
+    "static/media/sweetPleasures.a7d019bc.webp": "/my-portfolio/static/media/sweetPleasures.a7d019bc.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.9bc2dc3f.js",
     "static/js/2.e162691a.chunk.js",
-    "static/css/main.44b4bcf8.chunk.css",
-    "static/js/main.9f5819d6.chunk.js"
+    "static/css/main.943b1074.chunk.css",
+    "static/js/main.37a74ff7.chunk.js"
   ]
 }
