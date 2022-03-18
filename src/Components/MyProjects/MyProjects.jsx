@@ -1,16 +1,16 @@
-import bitPeople from "./assets/bitPeople.jpg";
-import hackerNews from "./assets/hackerNews.jpg";
-import bitShow from "./assets/bitShow.jpg";
-import gitHubSearcher from "./assets/gitHubSearcher.jpg";
-import rickAndMorty from "./assets/rickAndMorty.jpg";
-import buildEstate from "./assets/buildEstate.jpg";
-import movieFestival from "./assets/movieFestival.jpg";
-import examStatistics from "./assets/examStatistics.jpg";
-import studentProfiles from "./assets/studentProfiles.png";
-import sweetPleasures from "./assets/sweetPleasures.png";
-import landingPageLoopStudios from "./assets/landingPageLoopStudios.png";
-import landingPageSunnyside from "./assets/landingPageSunnyside.png";
-import bitBlog from "./assets/bitBlog.png";
+import bitPeople from "./assets/bitPeople.webp";
+import hackerNews from "./assets/hackerNews.webp";
+import bitShow from "./assets/bitShow.webp";
+import gitHubSearcher from "./assets/gitHubSearcher.webp";
+import rickAndMorty from "./assets/rickAndMorty.webp";
+import buildEstate from "./assets/buildEstate.webp";
+import movieFestival from "./assets/movieFestival.webp";
+import examStatistics from "./assets/examStatistics.webp";
+import studentProfiles from "./assets/studentProfiles.webp";
+import sweetPleasures from "./assets/sweetPleasures.webp";
+import landingPageLoopStudios from "./assets/landingPageLoopStudios.webp";
+import landingPageSunnyside from "./assets/landingPageSunnyside.webp";
+import bitBlog from "./assets/bitBlog.webp";
 import "./MyProjects.scss";
 
 export const MyProjects = () => {
