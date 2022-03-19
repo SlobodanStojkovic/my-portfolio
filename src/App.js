@@ -1,9 +1,9 @@
-import './App.scss';
-import { AboutMe } from './Components/AboutMe/AboutMe';
-import { Footer } from './Components/Footer/Footer';
-import { Header } from './Components/Header/Header';
-import { MyProjects } from './Components/MyProjects/MyProjects';
-import { MySkills } from './Components/MySkills/MySkills';
+import "./App.scss";
+import { AboutMe } from "./Components/AboutMe/AboutMe";
+import { Footer } from "./Components/Footer/Footer";
+import { Header } from "./Components/Header/Header";
+import { MyProjects } from "./Components/MyProjects/MyProjects";
+import { MySkills } from "./Components/MySkills/MySkills";
 
 function App() {
   return (
@@ -18,4 +18,3 @@ function App() {
 }
 
 export default App;
-
