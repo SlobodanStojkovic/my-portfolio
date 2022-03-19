@@ -1,16 +1,29 @@
 import bitPeople from "./assets/bitPeople.webp";
+import bitPeopleMobile from "./assets/bitPeopleMobile.webp";
 import hackerNews from "./assets/hackerNews.webp";
+import hackerNewsMobile from "./assets/hackerNewsMobile.webp";
 import bitShow from "./assets/bitShow.webp";
+import bitShowMobile from "./assets/bitShowMobile.webp";
 import gitHubSearcher from "./assets/gitHubSearcher.webp";
+import gitHubSearcherMobile from "./assets/gitHubSearcherMobile.webp";
 import rickAndMorty from "./assets/rickAndMorty.webp";
+import rickAndMortyMobile from "./assets/rickAndMortyMobile.webp";
 import buildEstate from "./assets/buildEstate.webp";
+import buildEstateMobile from "./assets/buildEstateMobile.webp";
 import movieFestival from "./assets/movieFestival.webp";
+import movieFestivalMobile from "./assets/movieFestivalMobile.webp";
 import examStatistics from "./assets/examStatistics.webp";
-import studentProfiles from "./assets/studentProfiles.webp";
+import examStatisticsMobile from "./assets/examStatistics.webp";
+import studentProfiles from "./assets/studentProfilesMobile.webp";
+import studentProfilesMobile from "./assets/studentProfilesMobile.webp";
 import sweetPleasures from "./assets/sweetPleasures.webp";
+import sweetPleasuresMobile from "./assets/sweetPleasuresMobile.webp";
 import landingPageLoopStudios from "./assets/landingPageLoopStudios.webp";
+import landingPageLoopStudiosMobile from "./assets/landingPageLoopStudiosMobile.webp";
 import landingPageSunnyside from "./assets/landingPageSunnyside.webp";
+import landingPageSunnysideMobile from "./assets/landingPageSunnysideMobile.webp";
 import bitBlog from "./assets/bitBlog.webp";
+import bitBlogMobile from "./assets/bitBlogMobile.webp";
 import "./MyProjects.scss";
 
 export const MyProjects = () => {
@@ -28,6 +41,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${sweetPleasuresMobile} 300w, ${sweetPleasures} 600w`}
               src={sweetPleasures}
               alt="Sweet Pleasures"
             />
@@ -52,6 +66,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${landingPageLoopStudiosMobile} 310w, ${landingPageLoopStudios} 710w`}
               src={landingPageLoopStudios}
               alt="Landing page Loop Studios"
             />
@@ -73,6 +88,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${landingPageSunnysideMobile} 310w, ${landingPageSunnyside} 710w`}
               src={landingPageSunnyside}
               alt="Landing page Sunnyside"
             />
@@ -92,7 +108,12 @@ export const MyProjects = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="projectImg" src={bitShow} alt="Search TV Shows" />
+            <img
+              className="projectImg"
+              srcSet={`${bitShowMobile} 310w, ${bitShow} 710w`}
+              src={bitShow}
+              alt="Search TV Shows"
+            />
           </a>
           <p>
             Website whose main purpose is to provide information to the users
@@ -109,7 +130,12 @@ export const MyProjects = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="projectImg" src={buildEstate} alt="Build Estate" />
+            <img
+              className="projectImg"
+              srcSet={`${buildEstateMobile} 310w, ${buildEstate} 710w`}
+              src={buildEstate}
+              alt="Build Estate"
+            />
           </a>
           <p>
             BuildEstate is the responsive website example. It changes depending
@@ -127,6 +153,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${gitHubSearcherMobile} 310w, ${gitHubSearcher} 710w`}
               src={gitHubSearcher}
               alt="GitHub Searcher"
             />
@@ -146,6 +173,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${rickAndMortyMobile} 310w, ${rickAndMorty} 710w`}
               src={rickAndMorty}
               alt="Rick And Morty"
             />
@@ -165,6 +193,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${studentProfilesMobile} 310w, ${studentProfiles} 710w`}
               src={studentProfiles}
               alt="Student Profiles"
             />
@@ -184,7 +213,12 @@ export const MyProjects = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="projectImg" src={bitBlog} alt="Bit Blog" />
+            <img
+              className="projectImg"
+              srcSet={`${bitBlogMobile} 310w, ${bitBlog} 710w`}
+              src={bitBlog}
+              alt="Bit Blog"
+            />
           </a>
           <p>
             BIT BLOG is a Single Page Application whose main purpose is to show
@@ -200,7 +234,12 @@ export const MyProjects = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="projectImg" src={bitPeople} alt="BIT People" />
+            <img
+              className="projectImg"
+              srcSet={`${bitPeopleMobile} 310w, ${bitPeople} 710w`}
+              src={bitPeople}
+              alt="BIT People"
+            />
           </a>
           <p>
             React BIT People is application created using React that pulls
@@ -217,7 +256,12 @@ export const MyProjects = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="projectImg" src={hackerNews} alt="Hacker News" />
+            <img
+              className="projectImg"
+              srcSet={`${hackerNewsMobile} 310w, ${hackerNews} 710w`}
+              src={hackerNews}
+              alt="Hacker News"
+            />
           </a>
           <p>
             Hacker News is a project that makes example of a single page blog
@@ -235,6 +279,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${movieFestivalMobile} 310w, ${movieFestival} 710w`}
               src={movieFestival}
               alt="Movie Festival"
             />
@@ -256,6 +301,7 @@ export const MyProjects = () => {
           >
             <img
               className="projectImg"
+              srcSet={`${examStatisticsMobile} 310w, ${examStatistics} 710w`}
               src={examStatistics}
               alt="Exam Statistics"
             />
