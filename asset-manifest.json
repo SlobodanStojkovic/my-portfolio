@@ -1,35 +1,28 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.e313a58e.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.868e0cf5.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.868e0cf5.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.982f0aff.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.3fa45e70.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.3fa45e70.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9bc2dc3f.js.map",
     "static/js/2.e162691a.chunk.js": "/my-portfolio/static/js/2.e162691a.chunk.js",
     "static/js/2.e162691a.chunk.js.map": "/my-portfolio/static/js/2.e162691a.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.e313a58e.chunk.css.map": "/my-portfolio/static/css/main.e313a58e.chunk.css.map",
+    "static/css/main.982f0aff.chunk.css.map": "/my-portfolio/static/css/main.982f0aff.chunk.css.map",
     "static/js/2.e162691a.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e162691a.chunk.js.LICENSE.txt",
-    "static/media/bitBlog.ea9368e2.webp": "/my-portfolio/static/media/bitBlog.ea9368e2.webp",
-    "static/media/bitPeople.5a5b42e3.webp": "/my-portfolio/static/media/bitPeople.5a5b42e3.webp",
     "static/media/bitShow.8521a5be.webp": "/my-portfolio/static/media/bitShow.8521a5be.webp",
     "static/media/buildEstate.2230ef25.webp": "/my-portfolio/static/media/buildEstate.2230ef25.webp",
-    "static/media/examStatistics.9206861d.webp": "/my-portfolio/static/media/examStatistics.9206861d.webp",
     "static/media/Footer.scss": "/my-portfolio/static/media/footer-world.3d287efa.webp",
     "static/media/gitHubSearcher.f2b19e95.webp": "/my-portfolio/static/media/gitHubSearcher.f2b19e95.webp",
-    "static/media/hackerNews.0481d278.webp": "/my-portfolio/static/media/hackerNews.0481d278.webp",
     "static/media/landingPageLoopStudios.426af553.webp": "/my-portfolio/static/media/landingPageLoopStudios.426af553.webp",
     "static/media/landingPageSunnyside.4719c030.webp": "/my-portfolio/static/media/landingPageSunnyside.4719c030.webp",
     "static/media/MySkills.scss": "/my-portfolio/static/media/laptopTable.35e35f89.webp",
-    "static/media/movieFestival.bb633679.webp": "/my-portfolio/static/media/movieFestival.bb633679.webp",
-    "static/media/rickAndMorty.78d64c08.webp": "/my-portfolio/static/media/rickAndMorty.78d64c08.webp",
-    "static/media/studentProfiles.d558d8b5.webp": "/my-portfolio/static/media/studentProfiles.d558d8b5.webp",
     "static/media/sweetPleasures.a7d019bc.webp": "/my-portfolio/static/media/sweetPleasures.a7d019bc.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.9bc2dc3f.js",
     "static/js/2.e162691a.chunk.js",
-    "static/css/main.e313a58e.chunk.css",
-    "static/js/main.868e0cf5.chunk.js"
+    "static/css/main.982f0aff.chunk.css",
+    "static/js/main.3fa45e70.chunk.js"
   ]
 }
