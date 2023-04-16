@@ -36,6 +36,7 @@ header {
   text-decoration: none;
   color: skyblue;
   font-size: 2.5rem;
+  margin-right: 2rem;
 }
 
 .nav div.logoName a:hover {
@@ -309,12 +310,6 @@ header {
   }
 }
 
-@media all and (max-width: 457px) {
-  .nav {
-    height: 170px;
-  }
-}
-
 .divHeader {
   height: calc(100vh);
   scroll-snap-align: start;
@@ -386,6 +381,10 @@ header {
   text-align: right;
 }
 
+.container {
+  padding: 0;
+}
+
 .divHeader p {
   text-align: left;
   font-size: 2.5em;
@@ -445,11 +444,12 @@ header {
   }
 }
 
-/* Media qurey section */
+/* Media query section */
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   header .container {
     margin: 0;
+    padding: 0;
   }
 }
 @media screen and (min-width: 1400px) {
@@ -468,7 +468,7 @@ header {
     margin-left: 15px;
     padding-left: 3rem;
     text-align: start;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     width: 85%;
   }
 
@@ -491,7 +491,7 @@ header {
     left: 0;
     bottom: 0;
     background-color: #111;
-    opacity: 80%;
+    opacity: 90%;
     /*same background color of navbar*/
     background-position: center top;
   }
@@ -504,7 +504,7 @@ header {
   header .nav div.main_list ul li a {
     text-align: center;
     width: 100%;
-    font-size: 3rem;
+    font-size: 2rem;
     padding: 20px;
   }
 
@@ -516,5 +516,15 @@ header {
 @media screen and (max-width: 1024px) {
   header .sec-header {
     clip-path: none;
+  }
+}
+
+@media all and (max-width: 497px) {
+  .nav {
+    height: 170px;
+  }
+
+  .sec-header > h1 {
+    font-size: 3rem;
   }
 }

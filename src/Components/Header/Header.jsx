@@ -46,7 +46,6 @@ export const Header = () => {
         <div className="divHeader">
           <section className="sec-header">
             <h1>Hi, I am Slobodan Stojkovic.</h1>
-            <hr className="col-xs-12 d-none d-sm-block hrHeader" />
             <div className="presentationHeader">
               <section className="half-header-r d-none d-sm-none d-md-block">
                 <p className="line1Header">"I'm a Frontend Developer."</p>
